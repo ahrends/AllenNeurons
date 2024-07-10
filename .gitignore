@@ -162,5 +162,6 @@ cython_debug/
 #.idea/
 
 cython_constraint.txt
+allen_visual_behavior_2p_change_detection_familiar_novel_image_sets.parquet
 
 temp/
